@@ -1,0 +1,14 @@
+C:\Users\Tyer\Documents\Visual Studio 2015\Projects\HexGrid\HexGrid\bin\Debug\HexGrid.exe.config
+C:\Users\Tyer\Documents\Visual Studio 2015\Projects\HexGrid\HexGrid\bin\Debug\HexGrid.exe
+C:\Users\Tyer\Documents\Visual Studio 2015\Projects\HexGrid\HexGrid\bin\Debug\HexGrid.pdb
+C:\Users\Tyer\Documents\Visual Studio 2015\Projects\HexGrid\HexGrid\obj\Debug\HexGrid.csprojResolveAssemblyReference.cache
+C:\Users\Tyer\Documents\Visual Studio 2015\Projects\HexGrid\HexGrid\obj\Debug\MainWindow.g.cs
+C:\Users\Tyer\Documents\Visual Studio 2015\Projects\HexGrid\HexGrid\obj\Debug\App.g.cs
+C:\Users\Tyer\Documents\Visual Studio 2015\Projects\HexGrid\HexGrid\obj\Debug\HexGrid_MarkupCompile.cache
+C:\Users\Tyer\Documents\Visual Studio 2015\Projects\HexGrid\HexGrid\obj\Debug\HexGrid_MarkupCompile.lref
+C:\Users\Tyer\Documents\Visual Studio 2015\Projects\HexGrid\HexGrid\obj\Debug\MainWindow.baml
+C:\Users\Tyer\Documents\Visual Studio 2015\Projects\HexGrid\HexGrid\obj\Debug\HexGrid.g.resources
+C:\Users\Tyer\Documents\Visual Studio 2015\Projects\HexGrid\HexGrid\obj\Debug\HexGrid.Properties.Resources.resources
+C:\Users\Tyer\Documents\Visual Studio 2015\Projects\HexGrid\HexGrid\obj\Debug\HexGrid.csproj.GenerateResource.Cache
+C:\Users\Tyer\Documents\Visual Studio 2015\Projects\HexGrid\HexGrid\obj\Debug\HexGrid.exe
+C:\Users\Tyer\Documents\Visual Studio 2015\Projects\HexGrid\HexGrid\obj\Debug\HexGrid.pdb
